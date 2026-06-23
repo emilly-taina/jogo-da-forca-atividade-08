@@ -120,6 +120,7 @@ Todo o código do jogo está dentro do arquivo `index.js`.
 - Documentação oficial do Node.js.
 - Conteúdo estudado em aula sobre JavaScript.
 - Template `.gitignore` recomendado pelo GitHub para projetos Node.js.
+- ChatGPT (OpenAI) utilizado como ferramenta de apoio para esclarecimento de dúvidas, revisão de código e estruturação do projeto.
 
 ## Licença do projeto
 
