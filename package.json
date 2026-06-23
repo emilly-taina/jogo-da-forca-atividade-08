@@ -1,0 +1,16 @@
+{
+  "name": "jogo-da-forca-atividade-08",
+  "version": "1.0.0",
+  "description": "Jogo da Forca em JavaScript para executar no terminal com Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "jogo-da-forca"
+  ],
+  "author": "Emilly Tainá da Silva Alves",
+  "license": "MIT"
+}

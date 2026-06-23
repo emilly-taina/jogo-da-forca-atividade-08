@@ -1,0 +1,66 @@
+[
+  {
+    "nome": "Emilly",
+    "resultado": "Venceu",
+    "palavra": "LEAO",
+    "categoria": "Animais",
+    "pontuacao": 154,
+    "data": "2026-06-23T15:34:00.995Z"
+  },
+  {
+    "nome": "Emilly",
+    "resultado": "Venceu",
+    "palavra": "SERVIDOR",
+    "categoria": "Tecnologia",
+    "pontuacao": 128,
+    "data": "2026-06-23T15:35:47.614Z"
+  },
+  {
+    "nome": "Emilly",
+    "resultado": "Venceu",
+    "palavra": "BRASIL",
+    "categoria": "Paises",
+    "pontuacao": 186,
+    "data": "2026-06-23T15:36:19.237Z"
+  },
+  {
+    "nome": "Emilly",
+    "resultado": "Venceu",
+    "palavra": "CACHORRO",
+    "categoria": "Animais",
+    "pontuacao": 168,
+    "data": "2026-06-23T15:37:05.734Z"
+  },
+  {
+    "nome": "Emilly",
+    "resultado": "Venceu",
+    "palavra": "TARTARUGA",
+    "categoria": "Animais",
+    "pontuacao": 169,
+    "data": "2026-06-23T15:37:44.145Z"
+  },
+  {
+    "nome": "Emilly",
+    "resultado": "Venceu",
+    "palavra": "PORTUGAL",
+    "categoria": "Paises",
+    "pontuacao": 158,
+    "data": "2026-06-23T15:38:36.657Z"
+  },
+  {
+    "nome": "Emilly",
+    "resultado": "Venceu",
+    "palavra": "MELANCIA",
+    "categoria": "Frutas",
+    "pontuacao": 188,
+    "data": "2026-06-23T15:39:15.638Z"
+  },
+  {
+    "nome": "Emilly",
+    "resultado": "Venceu",
+    "palavra": "MORANGO",
+    "categoria": "Frutas",
+    "pontuacao": 177,
+    "data": "2026-06-23T15:39:57.167Z"
+  }
+]
